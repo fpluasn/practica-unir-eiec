@@ -7,6 +7,13 @@ namespace practica_unir_eiec
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            metodo_GV();
         }
+
+        public static void metodo_GV(){
+            Console.WriteLine("Gustavo velasco.");
+        }
+
+
     }
 }
