@@ -14,6 +14,10 @@ namespace practica_unir_eiec
             Console.WriteLine("Gustavo velasco.");
         }
 
+         public static void metodo_SG(){
+            Console.WriteLine("Santiago García");
+        }
+
 
     }
 }
