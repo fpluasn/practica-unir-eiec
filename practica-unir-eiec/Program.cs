@@ -18,6 +18,10 @@ namespace practica_unir_eiec
             Console.WriteLine("Santiago García");
         }
 
+        public static void metodo_AA() {
+             Console.WriteLine("Andrea Albuja");
+        }
+
 
     }
 }
